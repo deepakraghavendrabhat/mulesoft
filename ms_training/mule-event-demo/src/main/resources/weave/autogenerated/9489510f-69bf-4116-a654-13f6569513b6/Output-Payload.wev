@@ -1,0 +1,6 @@
+%dw 2.0
+// namespaces
+ns ns0 http://www.dataaccess.com/webservicesserver/
+
+type auto_9489510f_69bf_4116_a654_13f6569513b6_Output_Payload = {-| ns0#NumberToWordsResult: String |-} {"typeId": "{http://www.dataaccess.com/webservicesserver/}#AnonType_NumberToWordsResponse"}
+
